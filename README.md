@@ -18,3 +18,5 @@ Set-up:
 # For ethical practice only
 
 This site is intentionally vulnerable.
+
+Happy hacking :)
