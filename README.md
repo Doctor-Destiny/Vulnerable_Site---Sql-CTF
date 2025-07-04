@@ -4,8 +4,12 @@
 
 Deployment on the web:
 
-`Use Wamp or or Xampp for local PHP hosting`
+`Use Wamp for local PHP hosting.`
 
 Requirements:
 
 `phpmyadmin + database`
+
+Set-up:
+
+`Upload db.sql to phpmyadmin.`
