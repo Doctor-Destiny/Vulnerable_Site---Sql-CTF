@@ -13,3 +13,8 @@ Requirements:
 Set-up:
 
 `Upload db.sql to phpmyadmin.`
+
+
+# For ethical practice only
+
+This site is intentionally vulnerable.
