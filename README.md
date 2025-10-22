@@ -15,8 +15,7 @@ Set-up:
 `Upload db.sql to phpmyadmin.`
 
 
-# For ethical practice only!
+# For practice
 
 This site is intentionally vulnerable!
 
-Happy hacking :)
